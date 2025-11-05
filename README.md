@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python) 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) 
-![ARIMA](https://img.shields.io/badge/ARIMA-TimeSerie
+![ARIMA](https://img.shields.io/badge/ARIMA-TimeSeries-green)
 
 A comprehensive time series analysis project that examines global weather patterns and builds predictive models to forecast future conditions using historical meteorological data.
 
